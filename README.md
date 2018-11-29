@@ -2,9 +2,9 @@
  
 Phonon Communications Pvt. Ltd. (“Phonon”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personally Identifiable Information that we may obtain through the use of Phonon products such as Click-to-Call, CCNow, 22North, DealerConnect (Applications) and access to www.phonon.in, referred to as (“Site”). The use of information provided through our Platform is limited to the purpose of providing you the service for which the customer has engaged Phonon.  By using our Site and Applications you acknowledge that you have reviewed and agree to the terms of this Privacy Policy.  If you have questions or concerns regarding this Privacy Policy, please contact us at privacy@phonon.in.
  
-This Privacy Policy may be updated from time to time to reflect new technologies, your needs, and business developments. You are advised to consult this Privacy Policy regularly for any changes.
+## This Privacy Policy may be updated from time to time to reflect new technologies, your needs, and business developments. You are advised to consult this Privacy Policy regularly for any changes.
  
-Personally Identifiable Information
+### Personally Identifiable Information
  
 We define personally identifiable information (or “PII”) as “information that can be used to uniquely identify, contact, or locate a single person or can be used with other sources to uniquely identify a single individual.” e. g. name, address, social security number, e-mail address etc. This is the common industry definition used by most Internet companies. Information that is collected by various Internet companies, but which does not qualify as PII is called “non-PII.”
  
